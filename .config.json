@@ -733,6 +733,53 @@
      "file": "/Users/eigh_io/.node-red/node_modules/node-red-dashboard/nodes/ui_group.js"
     }
    }
+  },
+  "node-red-contrib-sonos": {
+   "name": "node-red-contrib-sonos",
+   "version": "0.0.7",
+   "local": true,
+   "nodes": {
+    "sonos-config": {
+     "name": "sonos-config",
+     "types": [
+      "sonos-config"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-sonos",
+     "file": "/Users/eigh_io/.node-red/node_modules/node-red-contrib-sonos/sonos/sonos-config.js"
+    },
+    "sonos-control": {
+     "name": "sonos-control",
+     "types": [
+      "sonos-control"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-sonos",
+     "file": "/Users/eigh_io/.node-red/node_modules/node-red-contrib-sonos/sonos/sonos-control.js"
+    },
+    "sonos-currenttrack": {
+     "name": "sonos-currenttrack",
+     "types": [
+      "sonos-currenttrack"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-sonos",
+     "file": "/Users/eigh_io/.node-red/node_modules/node-red-contrib-sonos/sonos/sonos-currenttrack.js"
+    },
+    "sonos-queue": {
+     "name": "sonos-queue",
+     "types": [
+      "sonos-queue"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-sonos",
+     "file": "/Users/eigh_io/.node-red/node_modules/node-red-contrib-sonos/sonos/sonos-queue.js"
+    }
+   }
   }
  },
  "_credentialSecret": "73408bcb4c853088a6d3f4e8c8daa4ab1ab79815766018750acd0278298e027c"
