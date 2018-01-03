@@ -1,5 +1,9 @@
 {
     "name": "node-red-project",
     "description": "A Node-RED Project",
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "dependencies": {
+        "node-red-contrib-osc": "^1.0.0",
+        "node-red-dashboard": "^2.6.2"
+    }
 }
