@@ -3,7 +3,10 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
+        "install": "^0.10.2",
         "node-red-contrib-osc": "^1.0.0",
-        "node-red-dashboard": "^2.6.2"
+        "node-red-contrib-slip": "^1.0.1",
+        "node-red-dashboard": "^2.6.2",
+        "npm": "^5.6.0"
     }
 }

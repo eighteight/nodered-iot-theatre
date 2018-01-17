@@ -389,7 +389,7 @@
   },
   "node-red-node-rbe": {
    "name": "node-red-node-rbe",
-   "version": "0.1.13",
+   "version": "0.1.14",
    "local": false,
    "nodes": {
     "rbe": {
@@ -436,7 +436,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-osc",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-contrib-osc/osc.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-contrib-osc/osc.js"
     }
    }
   },
@@ -453,7 +453,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_base.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_base.js"
     },
     "ui_button": {
      "name": "ui_button",
@@ -463,7 +463,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_button.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_button.js"
     },
     "ui_dropdown": {
      "name": "ui_dropdown",
@@ -473,7 +473,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_dropdown.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_dropdown.js"
     },
     "ui_switch": {
      "name": "ui_switch",
@@ -483,7 +483,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_switch.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_switch.js"
     },
     "ui_slider": {
      "name": "ui_slider",
@@ -493,7 +493,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_slider.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_slider.js"
     },
     "ui_numeric": {
      "name": "ui_numeric",
@@ -503,7 +503,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_numeric.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_numeric.js"
     },
     "ui_text_input": {
      "name": "ui_text_input",
@@ -513,7 +513,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_text_input.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_text_input.js"
     },
     "ui_date_picker": {
      "name": "ui_date_picker",
@@ -523,7 +523,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_date_picker.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_date_picker.js"
     },
     "ui_colour_picker": {
      "name": "ui_colour_picker",
@@ -533,7 +533,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_colour_picker.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_colour_picker.js"
     },
     "ui_form": {
      "name": "ui_form",
@@ -543,7 +543,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_form.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_form.js"
     },
     "ui_text": {
      "name": "ui_text",
@@ -553,7 +553,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_text.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_text.js"
     },
     "ui_gauge": {
      "name": "ui_gauge",
@@ -563,7 +563,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_gauge.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_gauge.js"
     },
     "ui_chart": {
      "name": "ui_chart",
@@ -573,7 +573,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_chart.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_chart.js"
     },
     "ui_audio": {
      "name": "ui_audio",
@@ -583,7 +583,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_audio.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_audio.js"
     },
     "ui_toast": {
      "name": "ui_toast",
@@ -593,7 +593,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_toast.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_toast.js"
     },
     "ui_ui_control": {
      "name": "ui_ui_control",
@@ -603,7 +603,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_ui_control.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_ui_control.js"
     },
     "ui_template": {
      "name": "ui_template",
@@ -613,7 +613,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_template.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_template.js"
     },
     "ui_link": {
      "name": "ui_link",
@@ -623,7 +623,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_link.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_link.js"
     },
     "ui_tab": {
      "name": "ui_tab",
@@ -633,7 +633,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_tab.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_tab.js"
     },
     "ui_group": {
      "name": "ui_group",
@@ -643,7 +643,24 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/Users/eigh_io/repos/nodered-playground/node_modules/node-red-dashboard/nodes/ui_group.js"
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-dashboard/nodes/ui_group.js"
+    }
+   }
+  },
+  "node-red-contrib-slip": {
+   "name": "node-red-contrib-slip",
+   "version": "1.0.1",
+   "local": true,
+   "nodes": {
+    "slip": {
+     "name": "slip",
+     "types": [
+      "slip"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-slip",
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-contrib-slip/slip.js"
     }
    }
   }
