@@ -442,7 +442,7 @@
   },
   "node-red-dashboard": {
    "name": "node-red-dashboard",
-   "version": "2.6.2",
+   "version": "2.8.0",
    "local": true,
    "nodes": {
     "ui_base": {
@@ -661,6 +661,23 @@
      "local": true,
      "module": "node-red-contrib-slip",
      "file": "/Users/user/nodered-zerkalo/node_modules/node-red-contrib-slip/slip.js"
+    }
+   }
+  },
+  "node-red-contrib-async": {
+   "name": "node-red-contrib-async",
+   "version": "0.0.4",
+   "local": true,
+   "nodes": {
+    "async": {
+     "name": "async",
+     "types": [
+      "async"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-async",
+     "file": "/Users/user/nodered-zerkalo/node_modules/node-red-contrib-async/async.js"
     }
    }
   }
